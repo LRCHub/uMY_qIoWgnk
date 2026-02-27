@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Happy Funny Lucky",
+  "base_artist": "イルミネーションスターズ",
+  "createdAt": "2026-02-27T06:32:39.571686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Happy Funny Lucky",
+      "artist": "イルミネーションスターズ",
+      "has_synced": true,
+      "path": "select/01_Happy_Funny_Lucky_イルミネーションスターズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Happy Funny Lucky",
+      "artist": "イルミネーションスターズ[櫻木真乃(CV.関根瞳)、風野灯織(CV.近藤玲奈)、八宮めぐる(CV.峯田茉優)]",
+      "has_synced": true,
+      "path": "select/02_Happy_Funny_Lucky_イルミネーションスターズ[櫻木真乃(CV.関根瞳)、風野灯織(CV.近藤玲奈)、八宮めぐる(CV.峯田茉優)].lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Happy Funny Lucky",
+      "artist": "イルミネーションスターズ (関根瞳, 近藤玲奈, 峯田茉優)",
+      "has_synced": true,
+      "path": "select/03_Happy_Funny_Lucky_イルミネーションスターズ_(関根瞳,_近藤玲奈,_峯田茉優).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Happy Funny Lucky",
+      "artist": "イルミネーションスターズ ・ 櫻木真乃",
+      "has_synced": true,
+      "path": "select/04_Happy_Funny_Lucky_イルミネーションスターズ_・_櫻木真乃.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Happy Funny Lucky",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_Happy_Funny_Lucky_イルミネーションスターズ.txt"
+    }
+  ]
+}
